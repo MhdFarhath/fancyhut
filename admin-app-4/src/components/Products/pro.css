@@ -1,0 +1,21 @@
+.logo2{
+ align-items: center;
+ margin-left: -160px;
+ border-radius: 100px;
+}
+
+.abb{
+    color: white;
+    margin-right: 780px;
+    padding-top: 30px;
+    font-size: 2rem;
+
+}
+
+.logout{
+    margin-left: 30px;
+}
+
+.card-header{
+    text-align: center;
+}

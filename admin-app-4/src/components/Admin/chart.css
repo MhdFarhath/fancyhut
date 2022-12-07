@@ -1,0 +1,110 @@
+.class1 {
+
+    margin-right: 14px;
+    padding: 5px;
+
+
+  }
+
+
+
+
+  .div-signout{
+
+      margin-right: 800px;
+
+
+  }
+
+
+  #sidebar{
+      margin-top: 85px;
+      /*margin-left: -340px;*/
+      margin: right 0px;
+      width: 250px;
+      /* padding: px ; */
+
+
+  }
+
+  @media screen and (max-width: 1090px) {
+      #sidebar{
+          display: none;
+      }
+  }
+
+  ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+
+    }
+
+    li {
+      float: left;
+      padding-left: 5px;
+
+
+
+    }
+
+    .aa-mm {
+     float: right;
+     margin-left: 450px;
+
+    }
+
+    li a {
+      display: block;
+      padding: 8px;
+
+    }
+
+    #am{
+      border: 2px;
+      border-radius: 15px;
+    }
+
+    .fancyhut{
+        /* text-align:center;
+        margin-right: 750px; */
+        color: white;
+        margin-right: 70px;
+        padding-top:5px;
+        margin-left: 650px;
+        font-size: 150%;
+        font-weight: 1000;
+
+
+    }
+    .logo {
+    align-items: center ;
+    border-radius: 100px;
+    height: 70px;
+    width: 70px;
+    margin-left: -265px;
+    }
+
+    .nav-item mb-2{
+        border: solid 5px;
+    }
+
+    #amm{
+        width: 200px;
+        height: 50px;
+        padding: 0;
+        border: 0px;
+        margin-left: 0px;
+    }
+  .top{
+    margin-top: 70px;
+    margin-left: 30px;
+    padding: 0px ;
+
+  }
+
+ .btn{
+    width: 100%;
+    background-color: #339966;
+ }

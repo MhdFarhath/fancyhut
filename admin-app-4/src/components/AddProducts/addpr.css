@@ -1,0 +1,19 @@
+.logo1{
+ align-items: center;
+ margin-left: -250px;
+ border-radius: 100px;
+}
+
+.aaa{
+    color: white; 
+    margin-right: 640px;
+    padding-top: 10px;
+}
+
+.logout{
+    margin-left: 30px;
+}
+
+.card-header{
+    text-align: center;
+}

@@ -1,0 +1,19 @@
+.logo8{
+ align-items: center;
+ margin-left: -260px;
+ border-radius: 100px;
+}
+
+.aah{
+    color: white;
+    margin-left: -810px;
+    padding-top: 10px;
+}
+
+.logout{
+    margin-left: 30px;
+}
+
+.card-header{
+    text-align: center;
+}

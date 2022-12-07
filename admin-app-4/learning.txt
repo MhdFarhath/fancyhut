@@ -1,0 +1,6 @@
+Nested Routing Not Working in React Router v6
+//https://stackoverflow.com/questions/71901474/nested-routing-not-working-in-react-router-v6
+
+
+// firebase new versions import
+//https://exerror.com/attempted-import-error-firebase-app-does-not-contain-a-default-export-imported-as-firebase/
